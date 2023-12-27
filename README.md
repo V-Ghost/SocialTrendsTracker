@@ -1,2 +1,24 @@
 # SocialTrendsTracker
-Data Engineering Project that accumulates, processes and analyses trends, topics and subjects of interest that have a pervasive online presence. This project strives to generate useful insight into the disperse categories of interest in the internet space in Ghana.
+Data Engineering Project that accumulates, processes and analyses trends, topics and subjects of interest that have a pervasive online presence from disparate sources. This project strives to generate useful insight into the disperse categories of interest in the internet space in Ghana.
+
+## Table of Contents
+- [Features](#features)
+- [AWS Services](#aws-services)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Extract trending topics/Media from platforms (Youtube,Twitter,Google,Spotify) using various APIs
+- Data Cleaning (Null/Missing Value Handlers,Parsing)
+- Data Transformations such as tokenization and vectorization is carried out.
+- Data Loaded into Repository
+- Angular Dashboard for analyzing data.
+
+## AWS Services
+- AWS S3
+- AWS Glue
+- AWS Lambda
