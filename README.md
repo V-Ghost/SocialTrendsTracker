@@ -1,5 +1,5 @@
 # SocialTrendsTracker
-  Data Engineering Project that accumulates, processes and analyses trends, topics and subjects of interest that have a pervasive online presence from disparate sources. This project strives to generate useful insight into the disperse categories of interest in the internet space in Ghana. It is written python and relies heavy on 
+  Data Engineering Project that accumulates, processes and analyses trends, topics and subjects of interest that have a pervasive online presence from disparate sources. This project strives to generate useful insight using data relating to trends on various social platforms in Ghana. It is written python and relies heavy on 
   AWS Infastructure
 
 ## Table of Contents
