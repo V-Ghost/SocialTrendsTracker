@@ -5,21 +5,23 @@
 ## Table of Contents
 - [Features](#features)
 - [AWS Services](#aws-services)
-- [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+# Features
 
-- Extract trending topics/Media from platforms (Youtube,Twitter,Google,Spotify) using various APIs
+- Extract trending topics/Media from platforms (Youtube,Twitter,Google,Spotify) using various APIs and upload into s3 datalake
 - Data Cleaning (Null/Missing Value Handlers,Parsing)
 - Data Transformations such as tokenization and vectorization is carried out.
 - Data Loaded into Repository
 - Angular Dashboard for analyzing data.
 
-## AWS Services
+# AWS Services
 - AWS S3
 - AWS Glue
 - AWS Lambda
+- AWS Step Function
+
+# Configuration
